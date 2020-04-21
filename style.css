@@ -1,0 +1,130 @@
+body {
+    background-color: lightgray;
+}
+
+.big-blue-header {
+height: 500px;
+width: 850px;
+background-color: rgb(48, 61, 114);
+margin: 0 auto;
+}
+
+.navbar {
+width: 850px;
+height: 75px;
+margin: 0 auto;
+background-color: whitesmoke
+}
+
+.profile-photo {
+    height: 225px;
+    width: 225px;
+    border: 1px solid black;
+    border-radius: 1.75%;
+    background-color: rgb(48, 61, 114);
+    position: relative;
+    top: 300px;
+    left: 20px;
+}
+
+.buttons {
+    margin-top: 240px;
+    float: right
+}
+
+.headings {
+    margin-top: 170px;
+    margin-left: 260px;
+    color: white;
+    float: left
+}
+
+.navbar {
+    margin-top: 0px;
+    /* margin-left: 490px; */
+    /* position: absolute */
+}
+
+.navbar * {
+    float: left
+}
+
+.navbar * {
+    padding: 10px;
+    margin: 10px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.timeline {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    position: relative;
+    left: -190px;
+}
+
+* {
+    box-sizing: border-box
+}
+
+:root {
+    --first-box-color: white
+    --second-box-color:
+    --third-box-color:
+    --fourth-box-color:
+    --fifth-box-color:
+    --sixth-box-color:
+    --default-border: 5px solid black;
+}
+
+main {
+    height: 1000px;
+    width: 850px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.column-left {
+    background-color: lightcyan;
+    float: left;
+    width: 328px;
+    height: 100%;
+}
+
+.column-right {
+    float: right;
+    background-color: lightgoldenrodyellow;
+    width: 512px;
+    height: 100%;
+}
+
+div {
+    column-gap: 10px;
+}
+
+.card1 {
+    width: 100%;
+    height: 300px;
+    padding: 0px;
+    margin: 0px;
+    border: 3px solid black;
+    border-radius: 1.75%;
+    padding: 10px;
+    background-color: white
+}
+
+.card2 {
+    width: 100%;
+    height: 200px;
+    padding: 0px;
+    margin: 0px;
+    border: 3px solid black;
+    border-radius: 1.75%;
+    padding: 10px;
+    background-color: white
+}
+
+
